@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BLEScanner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="exit_tip">再次单击退出</string>
+    <string name="unknown_device">未知设备</string>
+    <string name="ble_connect_failed">连接失败</string>
+
+</resources>
