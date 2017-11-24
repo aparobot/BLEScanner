@@ -3,7 +3,7 @@ A simple BLE device scanner on Android for leaning BLE programming
 
 一个简单的BLE蓝牙搜索工具，可以作为学习BLE蓝牙通信的入门示例，是Aparobot平衡小车项目的系列开源工具。
 
-[](https://github.com/aparobot/BLEScanner/blob/master/snapshort.png)
+![](https://github.com/aparobot/BLEScanner/blob/master/snapshort.png)
 ------------------------------------------------------------------
 
 # Aparobot 简介
